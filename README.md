@@ -1,7 +1,7 @@
 # Site Reliability Engineering Collection 
 > An ongoing & curated collection of awesome SRE software and tools, philosophical principles, technical guidelines, practical tools and resources Site Reliablity Engineering (SRE).
 
-## Table of Contents
+## `Table of Contents`
   - [Culture](#culture)
   - [Education](#education)
   - [Books](#books)
@@ -24,7 +24,7 @@
 
 [Back to top](#table-of-contents)
 
-## Culture
+## `Culture`
 * [What is Site Reliability Engineering?](https://landing.google.com/sre/interview/ben-treynor.html)
 * [Keys To SRE by Ben Treynor](https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre)
 * [Google SRE Resources](https://landing.google.com/sre/resources.html)
@@ -153,7 +153,7 @@
 
 [Back to top](#table-of-contents)
 
-## Books
+## `Books`
 * [Practical Linux Infrastructure](https://www.apress.com/us/book/9781484205129)
 * [Site Reliability Engineering: How Google Runs Production Systems](https://landing.google.com/sre/book.html)
 * [The Site Reliability Workbook: Practical Ways to Implement SRE](https://landing.google.com/sre/book.html)
@@ -181,7 +181,7 @@
 
 [Back to top](#table-of-contents)
 
-## Hiring
+## `Hiring`
 * [SRE Hiring](https://www.usenix.org/conference/srecon15/program/presentation/fong)
 * [Hiring SREs at LinkedIn](https://engineering.linkedin.com/engineering-culture/hiring-sres-linkedin)
 * [Hiring Site Reliability Engineers](https://www.usenix.org/publications/login/june15/hiring-site-reliability-engineers)
@@ -191,7 +191,7 @@
 
 [Back to top](#table-of-contents)
 
-## Reliability
+## `Reliability`
 * [The Realities of the Job of Delivering Reliability](https://www.usenix.org/conference/srecon16/program/presentation/kroll)
 * [Fail at Scale by Ben Maurer](http://queue.acm.org/detail.cfm?id=2839461)
 * [Embracing Failure: Fault-Injection and Service Reliability](https://www.youtube.com/watch?v=wrY7XoOnysg)
@@ -261,7 +261,7 @@
 
 [Back to top](#table-of-contents)
 
-## Monitoring & Observability & Alerting
+## `Monitoring & Observability & Alerting`
 * [A Working Theory-of-Monitoring](https://www.usenix.org/conference/lisa13/working-theory-monitoring)
 * [The Evolution of Monitoring Systems at Google - Tony Rippy](https://vimeo.com/131484321)
 * [Monitoring without Infrastructure @ Airbnb](https://www.usenix.org/conference/srecon15/program/presentation/serebryany)
@@ -297,7 +297,7 @@
 
 [Back to top](#table-of-contents)
 
-## On-Call
+## `On-Call`
 * [Being an On-Call Engineer: A Google SRE Perspective](http://research.google.com/pubs/pub44813.html)
 * [Inside Atlassian: how our site reliability engineers do incident management](http://blogs.atlassian.com/2016/02/inside-atlassian-site-reliability-engineers-incident-management/)
 * [Inside Atlassian: how IT & SRE use ChatOps to run incident management](http://blogs.atlassian.com/2016/02/inside-atlassian-sre-use-chatops-run-incident-management/)
