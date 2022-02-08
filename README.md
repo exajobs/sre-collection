@@ -1,6 +1,6 @@
 # Site Reliability Engineering Collection Tools 
 
-## Contents
+## Table of Contents
   - [Culture](#culture)
   - [Education](#education)
   - [Books](#books)
