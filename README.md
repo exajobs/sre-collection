@@ -22,6 +22,8 @@
   - [Twitter](#twitter)
   - [SRE Tools](#sre-tools)
 
+[Back to top](#table-of-contents)
+
 ## Culture
 * [What is Site Reliability Engineering?](https://landing.google.com/sre/interview/ben-treynor.html)
 * [Keys To SRE by Ben Treynor](https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre)
@@ -148,6 +150,9 @@
 * [SRE Classroom: Distributed PubSub workshop](https://landing.google.com/sre/resources/practicesandprocesses/sre-classroom/)
 * [School of SRE: Curriculum for onboarding non-traditional hires and new grads](https://linkedin.github.io/school-of-sre/)
 
+
+[Back to top](#table-of-contents)
+
 ## Books
 * [Practical Linux Infrastructure](https://www.apress.com/us/book/9781484205129)
 * [Site Reliability Engineering: How Google Runs Production Systems](https://landing.google.com/sre/book.html)
@@ -174,6 +179,8 @@
 * [97 Things Every SRE Should Know](https://www.oreilly.com/library/view/97-things-every/9781492081487/)
 * [Four Steps to Creating Effective Game Day Tests](https://shopify.engineering/four-steps-creating-effective-game-day-tests)
 
+[Back to top](#table-of-contents)
+
 ## Hiring
 * [SRE Hiring](https://www.usenix.org/conference/srecon15/program/presentation/fong)
 * [Hiring SREs at LinkedIn](https://engineering.linkedin.com/engineering-culture/hiring-sres-linkedin)
@@ -181,6 +188,8 @@
 * [Hiring your first SRE](https://sreally.com/hiring-your-first-sre-bdda38ee175d#.2m3sqyuw9)
 * [Growing the Site Reliability Team at LinkedIn: Hiring is Hard](https://www.youtube.com/watch?v=ZemNg9GYvOA)
 * [Engineering Manager - Site Reliability Engineering Interview Preparation](https://danrl.com/blog/srm)
+
+[Back to top](#table-of-contents)
 
 ## Reliability
 * [The Realities of the Job of Delivering Reliability](https://www.usenix.org/conference/srecon16/program/presentation/kroll)
@@ -250,6 +259,8 @@
 * [How we’re building a production readiness review process at Grafana Labs](https://grafana.com/blog/2021/10/13/how-were-building-a-production-readiness-review-process-at-grafana-labs/)
 * [Resiliency Planning for High-Traffic Events](https://shopify.engineering/resiliency-planning-for-high-traffic-events)
 
+[Back to top](#table-of-contents)
+
 ## Monitoring & Observability & Alerting
 * [A Working Theory-of-Monitoring](https://www.usenix.org/conference/lisa13/working-theory-monitoring)
 * [The Evolution of Monitoring Systems at Google - Tony Rippy](https://vimeo.com/131484321)
@@ -283,6 +294,8 @@
 * [Deploys: It's Not Actually About Fridays](https://charity.wtf/2019/10/28/deploys-its-not-actually-about-fridays/)
 * [Site Reliability Engineering Best Practices for Data Pipelines](https://medium.com/better-programming/site-reliability-engineering-best-practices-for-data-pipelines-44a78e91f6f0)
 * [Elastic Observability in SRE and Incident Response](https://www.elastic.co/blog/elastic-observability-sre-incident-response)
+
+[Back to top](#table-of-contents)
 
 ## On-Call
 * [Being an On-Call Engineer: A Google SRE Perspective](http://research.google.com/pubs/pub44813.html)
