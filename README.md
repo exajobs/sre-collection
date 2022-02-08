@@ -1,5 +1,5 @@
-# Site Reliability Engineering Collection Tools 
-An ongoing & curated collection of awesome SRE software and tools, philosophical principles, technical guidelines, practical tools and resources Site Reliablity Engineering (SRE).
+# Site Reliability Engineering Collection 
+> An ongoing & curated collection of awesome SRE software and tools, philosophical principles, technical guidelines, practical tools and resources Site Reliablity Engineering (SRE).
 
 ## Table of Contents
   - [Culture](#culture)
