@@ -2,7 +2,7 @@
 > An ongoing & curated collection of awesome SRE software and tools, philosophical principles, technical guidelines, practical tools and resources Site Reliablity Engineering (SRE).
 
 #### What is Site Reliability Engineering?
-> "Fundamentally, it's what happens when you ask a software engineer to design an operations function." - Ben Treynor Sloss, VP Google Engineering, founder of Google SRE
+ **"Fundamentally, it's what happens when you ask a software engineer to design an operations function."** - Ben Treynor Sloss, VP Google Engineering, founder of Google SRE
 
 ## `Table of Contents`
   - [Culture](#culture)
