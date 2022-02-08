@@ -537,6 +537,12 @@
 * [Twitter SRE Weekly](https://twitter.com/SREWeekly) - The Official Twitter Account of SRE Weekly Newsletter.
 * [USENIX Association](https://twitter.com/usenix) - The Official USENIX Twitter Account.
 
+## SRE Tools
+* [Awesome SRE Tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering tools
+* [List of Continuous Integration services](https://github.com/exajobs/continuous-integration-continuous-delivery)
+* [SRE cheat sheet](https://github.com/shibumi/SRE-cheat-sheet) - A cheat sheet for Site Reliability Engineering principles and numbers
+* [SRE Capability Map] (https://www.cruform.com/sre-capability-map/) - Overview of all things SRE
+
 **[⬆ back to top](#table-of-contents)**
 
 
