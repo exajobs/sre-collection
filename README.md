@@ -22,7 +22,7 @@
   - [Twitter](#twitter)
   - [SRE Tools](#sre-tools)
 
-[Back to top](#table-of-contents)
+**[⬆ back to top](#table-of-contents)**
 
 ## `Culture`
 * [What is Site Reliability Engineering?](https://landing.google.com/sre/interview/ben-treynor.html)
@@ -123,7 +123,9 @@
 * [SRE Cultural Values](https://dubrie.medium.com/sre-cultural-values-a0073b475183)
 * [Are we there yet? Thoughts on assessing an SRE team’s maturity](https://cloud.google.com/blog/products/devops-sre/evaluating-where-your-team-lies-on-the-sre-spectrum)
 
-## Education
+**[⬆ back to top](#table-of-contents)**
+
+## `Education`
 * [Panel: Educating SRE](https://www.usenix.org/conference/srecon15/program/presentation/sebenik)
 * [From Zero to Hero: Recommended Practices for Training your Ever-Evolving SRE Teams](https://www.usenix.org/conference/srecon15/program/presentation/widdowson)
 * [New to an SRE team?](https://www.linkedin.com/pulse/new-sre-team-anthony-caiafa/)
@@ -151,7 +153,7 @@
 * [School of SRE: Curriculum for onboarding non-traditional hires and new grads](https://linkedin.github.io/school-of-sre/)
 
 
-[Back to top](#table-of-contents)
+**[⬆ back to top](#table-of-contents)**
 
 ## `Books`
 * [Practical Linux Infrastructure](https://www.apress.com/us/book/9781484205129)
