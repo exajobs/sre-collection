@@ -518,3 +518,22 @@
 * [Twitter SRE](https://twitter.com/TwitterSRE) - The Official Twitter Account of Twitter's SRE team.
 * [Twitter SRE Weekly](https://twitter.com/SREWeekly) - The Official Twitter Account of SRE Weekly Newsletter.
 * [USENIX Association](https://twitter.com/usenix) - The Official USENIX Twitter Account.
+
+**[⬆ back to top](#table-of-contents)**
+
+
+## Contributing 
+
+You are most welcome to [contribute](contributing.md) to this Awesome Community
+list as well. Big thanks to all current
+[contributors](https://github.com/exajobs/community/graphs/contributors)
+who have helped build this Awesome Community list.
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Exajobs](https://github.com/exajobs) has
+waived all copyright and related or neighboring rights to this work.
+
+[Back to top](#sql-server-collection)
